@@ -1,0 +1,8 @@
+# Built files (published as GitHub Release assets instead)
+*.exe
+
+# Local troubleshooting tools and logs, not part of PodBattery
+diagnostics/
+
+# GitHub social preview image (uploaded in repo settings, not part of the code)
+social-preview.png
